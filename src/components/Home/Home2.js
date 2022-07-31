@@ -19,13 +19,13 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I am an ambitious problem solver with a passion for online businesses, and I would love to join a team of like-minded
+              I am an ambitious problem solver with a passion for Web Technologies, and I would love to join a team of like-minded
               developers. I have an experience of creating both logical and innovative solutions to complex web problems. I am very precise
-              and thorough in everything I do and have a keen interest in technology and mobile applications.
+              and thorough in everything I do and have a keen interest in modern web applications.
               <br />
-              <br />I am fluent in classics like
+              <br />I am fluent in classics like HTML, CSS and
               <i>
-                <b className="purple"> C++,Java and Javascript</b>
+                <b className="purple"> Javascript</b>
               </i>
               <br />
               <br />
@@ -36,16 +36,16 @@ function Home2() {
               <br />
               <br />
               Whenever possible, I apply my passion for developing products
-              with <b className="purple">Node.js</b> and
+              using <b className="purple"></b>
               <i>
                 <b className="purple">
                   {" "}
-                  Modern Javascript Library and Frameworks
+                  Modern Javascript Libraries and Frameworks
                 </b>
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> React.js and Next.js</b>
+                <b className="purple"> Express js, React.js and Next.js</b>
               </i>
             </p>
           </Col>
@@ -72,16 +72,7 @@ function Home2() {
                   <AiFillGithub />
                 </a>
               </li>
-              <li className="social-icons">
-                <a
-                  href="https://twitter.com/MalikUsman5959"
-                  target="_blank"
-                  rel="noreferrer"
-                  className="icon-colour  home-social-icons"
-                >
-                  <AiOutlineTwitter />
-                </a>
-              </li>
+             
               <li className="social-icons">
                 <a
                   href="https://www.linkedin.com/in/muhammad-usman-amjad-30ab9a230/"
@@ -100,6 +91,16 @@ function Home2() {
                   className="icon-colour home-social-icons"
                 >
                   <AiFillInstagram />
+                </a>
+              </li>
+              <li className="social-icons">
+                <a
+                  href="https://twitter.com/MalikUsman5959"
+                  target="_blank"
+                  rel="noreferrer"
+                  className="icon-colour  home-social-icons"
+                >
+                  <AiOutlineTwitter />
                 </a>
               </li>
             </ul>
